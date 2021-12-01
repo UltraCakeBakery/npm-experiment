@@ -24,4 +24,24 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: install nato-phonetic-alphabet
-        run: npm ci nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet |
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet|
+          npm install nato-phonetic-alphabet
