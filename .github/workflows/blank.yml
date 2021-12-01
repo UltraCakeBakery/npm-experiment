@@ -6,7 +6,7 @@ name: experiment
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 * * * *'
+    - cron:  '0/10 * * * *'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -24,24 +24,62 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: install nato-phonetic-alphabet
-        run: npm install nato-phonetic-alphabet |
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet|
-          npm install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
+      - name: install nato-phonetic-alphabet
+        run: npm install nato-phonetic-alphabet
